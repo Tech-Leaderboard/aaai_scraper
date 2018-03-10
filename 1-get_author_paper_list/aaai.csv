@@ -15370,7 +15370,8 @@ author_name, affiliation, paper_title, paper_url, year_of_conference
 "Carla Gomes"," Cornell University","Generating Satisfiable Problem Instances",2000/aaai00-039.php,2000
 "Henry Kautz"," AT&T Research","Generating Satisfiable Problem Instances",2000/aaai00-039.php,2000
 "Bart Selman"," Cornell University","Generating Satisfiable Problem Instances",2000/aaai00-039.php,2000
-""," Universitat de Lleida","Solving the Round Robin Problem Using Propositional Logic",2000/aaai00-040.php,2000
+"Ramón Béjar","Universitat de Lleida","Solving the Round Robin Problem Using Propositional Logic",2000/aaai00-040.php,2000
+"Felip Manyà"," Universitat de Lleida","Solving the Round Robin Problem Using Propositional Logic",2000/aaai00-040.php,2000
 "Rainer Feldmann"," University of Paderborn","A Distributed Algorithm to Evaluate Quantified Boolean Formulae",2000/aaai00-044.php,2000
 "Burkhard Monien"," University of Paderborn","A Distributed Algorithm to Evaluate Quantified Boolean Formulae",2000/aaai00-044.php,2000
 "Thomas Mostek"," Northwestern University","Dynamic Case Creation and Expansion for Analogical Reasoning",2000/aaai00-050.php,2000
@@ -15379,8 +15380,8 @@ author_name, affiliation, paper_title, paper_url, year_of_conference
 "Tsutomu Horikoshi"," NTT Cyber Solutions Laboratories","Memory-Based Forecasting for Weather Image Patterns",2000/aaai00-051.php,2000
 "Satoshi Suzuki"," NTT East Corporation","Memory-Based Forecasting for Weather Image Patterns",2000/aaai00-051.php,2000
 "Haruhiko Kojima"," NTT Cyber Solutions Laboratories","Memory-Based Forecasting for Weather Image Patterns",2000/aaai00-051.php,2000
-"Paolo Liberatore"," Universit&eagrave","Compilability of Abduction",2000/aaai00-054.php,2000
-"Marco Schaerf"," Universit&eagrave","Compilability of Abduction",2000/aaai00-054.php,2000
+"Paolo Liberatore","Università di Roma ""La Sapienza""","Compilability of Abduction",2000/aaai00-054.php,2000
+"Marco Schaerf","Università di Roma ""La Sapienza""","Compilability of Abduction",2000/aaai00-054.php,2000
 "Craig Boutilier"," University of Toronto","Decision-Theoretic, High-Level Agent Programming in the Situation Calculus",2000/aaai00-055.php,2000
 "Ray Reiter"," University of Toronto","Decision-Theoretic, High-Level Agent Programming in the Situation Calculus",2000/aaai00-055.php,2000
 "Mikhail Soutchanski"," University of Toronto","Decision-Theoretic, High-Level Agent Programming in the Situation Calculus",2000/aaai00-055.php,2000
@@ -15389,9 +15390,9 @@ author_name, affiliation, paper_title, paper_url, year_of_conference
 "Daphne Koller"," Stanford University","Making Rational Decisions Using Adaptive Utility Elicitation",2000/aaai00-056.php,2000
 "James Kurien"," NASA Ames Research Center","Back to the Future for Consistency-Based Trajectory Tracking",2000/aaai00-057.php,2000
 "P. Pandurang Nayak"," PurpleYogi.com and RIACS","Back to the Future for Consistency-Based Trajectory Tracking",2000/aaai00-057.php,2000
-"Diego Calvanese"," Universit&eagrave","Answering Queries Using Views over Description Logics Knowledge Bases",2000/aaai00-059.php,2000
-"Giuseppe De Giacomo"," Universit&eagrave","Answering Queries Using Views over Description Logics Knowledge Bases",2000/aaai00-059.php,2000
-"Maurizio Lenzerini"," Universit&eagrave","Answering Queries Using Views over Description Logics Knowledge Bases",2000/aaai00-059.php,2000
+"Diego Calvanese","Università di Roma ""La Sapienza""","Answering Queries Using Views over Description Logics Knowledge Bases",2000/aaai00-059.php,2000
+"Giuseppe De Giacomo","Università di Roma ""La Sapienza""","Answering Queries Using Views over Description Logics Knowledge Bases",2000/aaai00-059.php,2000
+"Maurizio Lenzerini","Università di Roma ""La Sapienza""","Answering Queries Using Views over Description Logics Knowledge Bases",2000/aaai00-059.php,2000
 "James P. Delgrande"," Simon Fraser University","A Consistency-Based Model for Belief Change: Preliminary Report",2000/aaai00-060.php,2000
 "Torsten Schaub"," Universität Potsdam","A Consistency-Based Model for Belief Change: Preliminary Report",2000/aaai00-060.php,2000
 "G. Antoniou"," Griffith University","A Flexible Framework for Defeasible Logics",2000/aaai00-062.php,2000
@@ -15468,12 +15469,12 @@ author_name, affiliation, paper_title, paper_url, year_of_conference
 "Amedeo Cesta and Angelo Oddi"," National Research Council of Italy","Iterative Flattening: A Scalable Method for Solving Multi-Capacity Scheduling Problems",2000/aaai00-114.php,2000
 "IP-CNR"," National Research Council of Italy","Iterative Flattening: A Scalable Method for Solving Multi-Capacity Scheduling Problems",2000/aaai00-114.php,2000
 "Stephen F. Smith"," Carnegie Mellon University","Iterative Flattening: A Scalable Method for Solving Multi-Capacity Scheduling Problems",2000/aaai00-114.php,2000
-"Paolo Ferraris"," DIST -- Universit&eagrave","Planning as Satisfiability in Nondeterministic Domains",2000/aaai00-115.php,2000
-"Enrico Giunchiglia"," DIST -- Universit&eagrave","Planning as Satisfiability in Nondeterministic Domains",2000/aaai00-115.php,2000
-"Alberto Finzi"," Universit&eagrave","Open World Planning in the Situation Calculus",2000/aaai00-116.php,2000
-"Fiora Pirri"," Universit&eagrave","Open World Planning in the Situation Calculus",2000/aaai00-116.php,2000
+"Paolo Ferraris"," DIST -- Università di Genova","Planning as Satisfiability in Nondeterministic Domains",2000/aaai00-115.php,2000
+"Enrico Giunchiglia"," DIST -- Università di Genova","Planning as Satisfiability in Nondeterministic Domains",2000/aaai00-115.php,2000
+"Alberto Finzi","Università degli Studi di Roma ""La Sapienza""","Open World Planning in the Situation Calculus",2000/aaai00-116.php,2000
+"Fiora Pirri","Università degli Studi di Roma ""La Sapienza""","Open World Planning in the Situation Calculus",2000/aaai00-116.php,2000
 "Ray Reiter"," University of Toronto","Open World Planning in the Situation Calculus",2000/aaai00-116.php,2000
-"Alfonso Gerevini"," Universit&eagrave","Discovering State Constraints in DISCOPLAN: Some New Results",2000/aaai00-117.php,2000
+"Alfonso Gerevini"," Università di Brescia","Discovering State Constraints in DISCOPLAN: Some New Results",2000/aaai00-117.php,2000
 "Lenhart Schubert"," University of Rochester","Discovering State Constraints in DISCOPLAN: Some New Results",2000/aaai00-117.php,2000
 "A. Herzig"," IRIT-UPS","A Logic for Planning under Partial Observability",2000/aaai00-118.php,2000
 "J. Lang"," IRIT-UPS","A Logic for Planning under Partial Observability",2000/aaai00-118.php,2000
@@ -16347,6 +16348,7 @@ author_name, affiliation, paper_title, paper_url, year_of_conference
 "Barney Pell"," NASA Ames Research Center","Using Induction to Refine Information Retrieval Strategies",1994/aaai94-084.php,1994
 "Smadar Kedar"," Northwestern University ","Using Induction to Refine Information Retrieval Strategies",1994/aaai94-084.php,1994
 "Nicola Guarino"," National Research Council,  Italy","Formalizing Ontological Commitments",1994/aaai94-085.php,1994
+" Massimiliano Carrara",,"Formalizing Ontological Commitments",1994/aaai94-085.php,1994
 "Pierdaniele Giaretta"," University of Padova ","Formalizing Ontological Commitments",1994/aaai94-085.php,1994
 "Jonathan Gratch"," University of Illinois","Improving Learning Performance through Rational Resource Allocation",1994/aaai94-087.php,1994
 "Gerald DeJong"," University of Illinois","Improving Learning Performance through Rational Resource Allocation",1994/aaai94-087.php,1994
@@ -16513,6 +16515,7 @@ author_name, affiliation, paper_title, paper_url, year_of_conference
 "Randolph M. Jones"," The University of Michigan","AIR-SOAR: Intelligent Multi-Level Control",1993/aaai93-132.php,1993
 "Edward M. Riseman"," University of Massachusetts","Computer Vision Research at the University of Massachusetts",1993/aaai93-134.php,1993
 "Allen R. Hanson"," University of Massachusetts","Computer Vision Research at the University of Massachusetts",1993/aaai93-134.php,1993
+" J. Indigo Thomas","University of Massachusetts","Computer Vision Research at the University of Massachusetts",1993/aaai93-134.php,1993
 "Alessandro Saffiotti"," SRI International","A Fuzzy Controller for Flakey, the Robot",1993/aaai93-135.php,1993
 "Nicholas Helft"," SRI International","A Fuzzy Controller for Flakey, the Robot",1993/aaai93-135.php,1993
 "Kurt Konolige"," SRI International","A Fuzzy Controller for Flakey, the Robot",1993/aaai93-135.php,1993
@@ -16531,6 +16534,8 @@ author_name, affiliation, paper_title, paper_url, year_of_conference
 "Jan M. Zytkow"," Wichita State University","Operational Definition Refinement: A Discovery Process",1992/aaai92-012.php,1992
 "Jieming Zhu"," Wichita State University","Operational Definition Refinement: A Discovery Process",1992/aaai92-012.php,1992
 "Vlad G. Dabija"," Stanford University","Learning to Learn Decision Trees",1992/aaai92-014.php,1992
+"Katsuhiko Tsujino","Mitsubishi Electric Corporation","Learning to Learn Decision Trees",1992/aaai92-014.php,1992
+"Shogo Nishida ","Mitsubishi Electric Corporation","Learning to Learn Decision Trees",1992/aaai92-014.php,1992
 "Lisa Dent"," Carnegie Mellon University","A Personal Learning Apprentice",1992/aaai92-015.php,1992
 "Jesus Boticario"," Carnegie Mellon University","A Personal Learning Apprentice",1992/aaai92-015.php,1992
 "Tom Mitchell"," Carnegie Mellon University","A Personal Learning Apprentice",1992/aaai92-015.php,1992
