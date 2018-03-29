@@ -1,0 +1,299 @@
+affiliation error? Zhaohui Fu, and Andrew Lim, National University of Singapore
+affiliation error? Hong Kong University of Science and Technology
+affiliation error? Fang Chu, University of California, Los Angeles
+affiliation error? Hong Kong University of Science and Technology
+affiliation error? Hong Kong University of Science and Technology
+affiliation error? Bar-Ilan University and University of Maryland
+affiliation error? Kitano Symbiotic Systems Project, ERATO and Kyoto University
+affiliation error? Kitano Symbiotic Systems Project, ERATO and Sony Computer Science Laboratories, Inc.
+affiliation error? Juay-Chin Ang, Wee-Kit Ho, and Wee-Chong Oon, National University of Singapore
+affiliation error? George Mason University and US Army War College
+affiliation error? George Mason University and US Army War College
+affiliation error? George Mason University and US Army War College
+affiliation error? Bar-Ilan University and University of Maryland
+affiliation error? Juay-Chin Ang, Wee-Kit Ho, and Wee-Chong Oon, National University of Singapore
+affiliation error? ATR Media Integration and Communications Research Laboratories
+affiliation error? MERL -- Mitsubishi Electric Research Laboratory and University of Virginia
+affiliation missing? Ramón Béjar and Felip Many&eagrave
+affiliation missing? di Roma "La Sapienza"
+affiliation error? Brown University and Leslie Pack Kaelbling, Massachusetts Institute of Technology
+affiliation missing? di Roma "La Sapienza"
+affiliation missing? di Genova
+affiliation missing? degli Studi di Roma "La Sapienza"
+affiliation missing? di Brescia
+affiliation error? The Hong Kong University of Science and Technology
+affiliation error? AT&T Labs -- Research and Duke University
+affiliation error? Rada Mihalcea, Southern Methodist University
+affiliation error? Euna Jeong, National Taiwan University, Chun-Nan Hsu, Academia Sinica
+affiliation error? KP Lee, Jacquelyn Martino, John Milanski, J. David Schaffer, and John Zimmerman, Philips Research
+affiliation error? Intelligenesis Corporation and Indiana University
+affiliation error? Washington University, and Nir Vulkan, University of Bristol
+affiliation error? University of Massachusetts, and Mary Litch, University of Alabama
+affiliation error? Hong Kong University of Science and Technology
+affiliation error? CLARITECH Corporation, and Steve Beale, New Mexico State University
+affiliation error? Just Research and Carnegie Mellon University
+affiliation error? University of Wollongong and Srinivas Padmanabhuni, University of Alberta, Edmonton
+affiliation error? Freiburg University and Freiburg University Hospital
+affiliation error? Illinois State University, and Raymond J. Mooney, University of Texas at Austin
+affiliation error? MERL - A Mitsubishi Electric Research Laboratory, and James Allen, University of Rochester
+affiliation error? Kellogg, Dartmouth College, and Feng Zhao, Xerox Palo Alto Research Center
+affiliation error? Rada Mihalcea and Dan I. Moldovan, Southern Methodist University
+affiliation error? University of Utah and Rosie Jones, Carnegie Mellon University
+affiliation error? Stanford University and Raymond J. Mooney, University of Texas
+affiliation error? S.A. and Mark S. Fox, University of Toronto
+affiliation error? Georgia Institute of Technology and Boleslaw Szymanski, Rensselaer Polytechnic Institute
+affiliation error? University of Athens and Spiros Skiadopoulos, National Technical University of Athens
+affiliation error? Japan Science and Technology Corporation and Sony Computer Science
+affiliation error? Seok Won Lee, Michael Bowman, and Gheorghe Tecuci, George Mason University
+affiliation error? University of Central Florida and Carlos Segami, Barry University
+affiliation error? University California, Berkeley and International Computer Science Institute
+affiliation error? Duke University, and Anthony S. Maida, University of Southwestern Louisiana
+affiliation error? Seok Won Lee and Gheorghe Tecuci, George Mason University
+affiliation error? MIT Artificial Intelligence Lab and Oracle Corporation
+affiliation error? Hunter College and Graduate School of the City University of New York
+affiliation error? Cynthia Breazeal (Ferrell), Massachusetts Institute of Technology
+affiliation error? Hunter College and The Graduate School of The City University of New York
+affiliation error? The Ohio State University and Motorola SPS
+affiliation error? The Ohio State University and ERB Professional Services
+affiliation error? NASA Ames Research Center and William Millar, NASA Ames Research Center/Caelum Research Corporation
+affiliation error? NASA Ames Research Center and Benjamin J. Kuipers, University of Texas at Austin
+affiliation error? UPS and Pierre Marquis, CRIL/Université d'Artois
+affiliation error? Technologies and David W. Etherington, University of Oregon
+affiliation error? Universität Freiburg and Richard E. Korf, University of California, Los Angeles
+affiliation error? University of California, Los Angeles and Michael Reid, Brown University
+affiliation error? Stanford University and Guevara Noubir, Centre Suisse d'Electronique et de Microtechnique
+affiliation error? Technologies and David P. Clements, University of Oregon
+affiliation error? Griffith University Gold Coast and Abdul Sattar, Griffith University
+affiliation error? Tad Hogg, Xerox Palo Alto Research Center
+affiliation error? Justsystem Pittsburgh Research Center and Carnegie Mellon University and Scott Davies, Carnegie Mellon University
+affiliation error? Masaya Iwata, Electrotechnical Laboratory
+affiliation error? Just Research and Carnegie Mellon University
+affiliation error? SRI International and Louis J. Hoebel, General Electric CRD
+affiliation error? AT&T Labs--Research and Peter F. Patel-Schneider, Bell Labs Research
+affiliation error? DIST - Università di Genova and Vladimir Lifschitz, University of Texas at Austin
+affiliation error? University of Southern California and Pat Langley, Daimler-Benz Research & Technology Center
+affiliation error? Bell Communications Research and Rutgers University
+affiliation error? Institute for the Study of Learning and Expertise
+affiliation error? Just Research and Carnegie Mellon University
+affiliation error? Southern Methodist University and Rebecca Bruce, University of North Carolina at Asheville
+affiliation error? Swiss Federal Institute of Technology and Dimitris Papadias, Hong Kong University of Science and Technology
+affiliation error? NASA Ames Research Center and Daniel S. Weld, University of Washington
+affiliation error? Cynthia Breazeal (Ferrell), Robert Irie, Charles C. Kemp, Matthew Marjanovic, Brian Scassellati and Matthew M. Williamson, MIT Artificial Intelligence Lab
+affiliation error? Micheal Hewett, University of Texas at Austin
+affiliation error? Institute of Physics and Power Engineering
+affiliation error? Rutgers, The State University of New Jersey
+affiliation error? Tokyo University of Agriculture and Technology
+affiliation error? Technische Universität Berlin and Thorsten Joachims, Uni Dortmund
+affiliation error? Seok Won Lee and Gheorghe Tecuci, George Mason University
+affiliation error? Ilan University and Sarit Kraus, Bar-Ilan University and University of Maryland
+affiliation error? Xerox Palo Alto Research Center and Stanford University
+affiliation error? University of British Columbia and Moshe Tennenholtz, Technion - Israel Institute of Technology
+affiliation missing? Reductio-ad-Absurdum
+affiliation error? American University of Beirut and Gregory Provan, Rockwell Science Center
+affiliation error? The University of Texas at Austin and Robert C. Schrag, Information Extraction and Transport, Inc.
+affiliation error? Rome Laboratory and Bart Selman, AT&T Laboratories
+affiliation error? Tad Hogg, Xerox Palo Alto Alto Research Center
+affiliation error? Boeing Company and Bruce Porter, University of Texas at Austin
+affiliation error? Tufts University and Wayne Snyder, Boston University
+affiliation error? Sriram Srinivasan, University of Cincinnati
+affiliation error? Carnegie Mellon University and Vladimir Pericliev, Bulgarian Academy of Science
+affiliation error? University of Minnesota-Duluth and David Opitz, University of Montana
+affiliation error? University of Pennsylvania and NEC Research Institute
+affiliation error? AT&T Labs-Research and Daniel Kudenko, Rutgers University
+affiliation error? University Paris-II and Christoph Schlieder, Universität Freiburg
+affiliation error? Jet Propulsion Laboratory, California Institute of Technology
+affiliation error? Daimler-Benz Research and Technology Center
+affiliation error? CPT Pete Beim, Ian Horswill and Ivan Yen, Northwestern University
+affiliation error? Kiel University and Grigoris Antoniou, Griffith University
+affiliation missing? Speeding Safely
+affiliation error? University of Texas at Arlington and University of Texas Southwestern Medical Center
+affiliation error? University of Pittsburgh and Marilyn A. Walker, ATT Research Laboratories
+affiliation error? NYNEX Science & Technology and Daniel N. Hennessy, University of Pittsburgh
+affiliation error? National University of Ireland at Cork and Gerry Dozier, North Carolina A&T State University
+affiliation error? University of Oregon and Joachim P. Walser, Universität des Saarlandes
+affiliation error? SciComp, Inc. and Raymond J. Mooney, University of Texas at Austin
+affiliation error? University of Western Sydney and Norman Y. Foo, University of Sydney
+affiliation error? Stanford University and Joseph Y. Halpern, IBM Almaden Research Center
+affiliation error? AT&T Research and Marie-Christine Rousset, University of Paris-Sud
+affiliation error? AT&T Research and Marie-Christine Rousset, University of Paris-Sud
+affiliation error? IBM T. J. Watson Research Center and Columbia University
+affiliation error? TH Darmstadt and Michael Thielscher, International Computer Science Institute
+affiliation error? Sandia National Laboratories and George F. Luger, University of New Mexico
+affiliation error? Wichita State University and Polish Academy of Sciences
+affiliation error? Purdue University and Mark A. Friedl, Boston University
+affiliation error? Carnegie Mellon University and Arno Bücken, Universität Bonn
+affiliation error? Center for Applied Knowledge Processing and Ashok K. Goel, Georgia Institute of Technology
+affiliation error? Siddarth Subramanian, National Instruments - Georgetown and Raymond J. Mooney, University of Texas at Austin
+affiliation error? Jet Propulsion Laboratory, California Institute of Technology
+affiliation error? University of Hartford and Robert McCartney, University of Connecticut
+affiliation error? Nippon Telegraph and Telephone Corporation
+affiliation error? SRA International and Srinivas Gutta, George Mason University
+affiliation error? University of Chicago and Paul R. Cooper, Northwestern University
+affiliation error? University of Pittsburgh and Bonnie L. Webber, University of Pennsylvania
+affiliation error? CIRL/University of Oregon and Martha E. Pollack, University of Pittsburgh
+affiliation error? Australian National University and Sylvie Thiébaux, IRISA
+affiliation error? Asian Institute of Technology and Paolo Mancarella, University of Pisa
+affiliation error? Stanford University and Moises Goldszmidt, Rockwell Science Center
+affiliation error? University of British Columbia and Moshe Tennenholtz, Technion -- Israel Institute of Technology
+affiliation error? Stanford University and Joseph Y. Halpern, IBM Almaden Research Center
+affiliation error? Metrica, Inc. , Johnson Space Center, NASA and Tom Dean, Brown University
+affiliation error? Simon Fraser University and Rajjan Shinghal, Concordia University, Canada
+affiliation error? GRPR, École Polytechnique de Montréal, Canada
+affiliation error? DePaul University and Northwestern University
+affiliation error? Carnegie Mellon University and Kazuo Miyashita, Matsushita Electric Industrial Co.
+affiliation error? University of Vienna and the Austrian Research Institute for Artificial Intelligence
+affiliation error? Recom Technologies, NASA Ames Research Center
+affiliation error? Judea Pearl, University of California, Los Angeles
+affiliation missing? Paul Snow
+affiliation error? Washington State University and Glenn A. Kramer, Enterprise Integration Technologies
+affiliation error? Tad Hogg and Colin P. Williams, Xerox Palo Alto Research Center
+affiliation error? Universität Ulm and Hans-Jürgen Bürckert, DFKI
+affiliation error? University of Pittsburgh and Jeffrey S. Rosenschein, Hebrew University
+affiliation error? MIT and Jeffrey S. Rosenschein, Hebrew University
+affiliation error? University of Texas at Austin and Rattikorn Hewett, Florida Atlantic University
+affiliation error? University of Chicagoand Alex Kass, Northwestern University
+affiliation error? IBM Corporation and Bruce Porter, University of Texas at Austin
+affiliation missing? Massimiliano Carrara
+affiliation error? Rutgers University and Nitin Indurkhya, University of Sydney
+affiliation error? Santa Fe Institute and Sreerupa Das, University of Colorado
+affiliation error? University of Michigan and Steven L. Lytinen, DePaul University
+affiliation error? Virginia Polytechnic Institute and State University
+affiliation error? Systems Research and Applications Corporation
+affiliation error? University of Texas at Austin and Dennis Bijwaard, University of Twente
+affiliation error? Roger M. Records and Jai J. Choi, Boeing Computer Services
+affiliation error? Stanford University and Joseph Y. Halpern, IBM Almaden Research Center
+affiliation error? Athens University of Economics and Business
+affiliation error? IBM T. J. Watson Research Center and Daniel S. Weld, University of Washington
+affiliation error? Arizona State University and Dana S. Nau, University of Maryland
+affiliation error? Recom Technologies, NASA Ames Research Center
+affiliation error? Recom Technologies, NASA Ames Research Center
+affiliation error? Northwestern University and Peter B. Whalley, Oxford University
+affiliation error? Stanford University and Alon Y. Levy, AT&T Bell Laboratories
+affiliation error? Xerox Palo Alto Research Center and Jonathan Cagan, Carnegie Mellon University
+affiliation error? Cognitive Systems, Inc. and Brandeis University
+affiliation error? Siemens Corporate Research and Ramana Isukapalli, Rutgers University
+affiliation error? NEC Corp. and Norman Sadeh, Carnegie Mellon University
+affiliation error? Siemens AG Österreich and Aliasghar Khorsand
+affiliation error? StefanieBrüninghaus, Universität Mannheim
+affiliation error? Devika Subramanian, University of Pittsburgh
+affiliation error? IBM T. J. Watson Research Center and Elisha Sacks, Princeton University
+affiliation error? IBM T.J. Watson Research Center and Elisha Sacks, Princeton University
+affiliation error? University of California, Los Angeles and Rina Dechter, University of California, Irvine
+affiliation error? University of Montpellier II and Marie-Odile Cordier, University of Rennes I
+affiliation error? University of Pennsylvania and David Allen McAllester, MIT Artifical Intelligence Laboratory
+affiliation error? Tad Hogg, Xerox Palo Alto Research Center
+affiliation error? MIT Laboratory for Computer Science and Isaac S. Kohane, Harvard Medical School
+affiliation error? Tad Hogg and Colin P. Williams, Xerox Palo Alto Research Center
+affiliation error? Siemens Corporate Research, Inc. and Stephen C-Y. Lu, University of Illinois at Urbana-Champaign
+affiliation error? Advanced Institute of Science and Technology, Nara
+affiliation error? Stanford University and Miroslaw Truszczynski, University of Kentucky
+affiliation error? Stanford University and David E. Smith, Rockwell International
+affiliation error? Rockwell International and Mark A. Peot, Stanford University
+affiliation error? University of Illinois at Urbana-Champaign and Scott Bennett, Systems Research and Applications Corporation
+affiliation error? Carnegie Mellon University and Paul S. Rosenbloom, University of Southern California/Information Sciences Institute
+affiliation error? Carnegie Mellon University and Max Henrion, Rockwell International Science Center
+affiliation error? Advanced Institute of Science and Technology, Nara
+affiliation error? University of British Columbia and Moisés Goldszmidt, Rockwell International
+affiliation error? University of California, Davis and Bhaskar Janakiraman, Silicon Graphics Inc.
+affiliation error? Hong Kong University of Science and Technology
+affiliation error? NTT Basic Research Labs and Shree K. Nayar, Columbia University
+affiliation error? University of Central Florida and Steven A. Shafer, Carnegie Mellon University
+affiliation error? Computer Vision Laboratory, University of Massachusetts
+affiliation error? Rutgers University and Siemens Corporate Research
+affiliation error? Microelectronics and Computer Technology Corporation
+affiliation error? General Electric Research and Development Center
+affiliation error? Tad Hogg, Xerox Palo Alto Research Center
+affiliation error? Jet Propulsion Laboratory, California Institute of Technology
+affiliation error? Queens College, City University of New York
+affiliation error? IBM Israel Scientific Center and Bar-Ilan University
+affiliation error? General Electric Research and Development Center
+affiliation error? Jet Propulsion Laboratory, California Institute of Technology
+affiliation error? Jet Propulsion Laboratory, California Institute of Technology
+affiliation error? Institute for Learning Sciences, Northwestern University
+affiliation error? Information Sciences Institute, University of Southern California
+affiliation error? Institut Supérieur d'Electronique de Paris and Université PARIS VI
+affiliation error? Kumiyo Nakakoji, University of Colorado and Software Research Associates, Inc.
+affiliation error? Oliviero Stock, Istituto per la Ricerca Scientifica e Tecnologica
+affiliation error? Carnegie Mellon University and NEC Corporation
+affiliation error? NTT Communications and Information Processing Laboratories
+affiliation error? Enterprise Integration Technologies Corporation and Stanford University
+affiliation error? Microelectronics and Computer Technology Corporation
+affiliation error? Rina Dechter, University of California, Irvine
+affiliation error? Massachusetts Institute of Technology and Xerox Palo Alto Research Center
+affiliation error? Massachusetts Institute of Technology, and David Rosenblitt, WEB Development Corporation
+affiliation error? NTT Communications and Information Processing Laboratories
+affiliation error? Brandeis University and Digital Equipment Corporation
+affiliation error? University of Texas at Austin, and William C. Bulko, IBM Corporation
+affiliation error? General Electric Research and Development Center
+affiliation error? University of Sussex and Schlumberger Laboratory for Computer Science
+affiliation error? Northrop Research and Technology Corporation
+affiliation error? Azaria Paz, Israel Institute of Technology
+affiliation error? Stanford University and Kestrel Institute
+affiliation error? General Electric Corporate Research and Development
+affiliation error? SRI International and Stanford University
+affiliation error? Beijing Institute of Aeronautics and Astronautics
+affiliation error? Judea Pearl, University of California, Los Angeles
+affiliation error? Xerox Palo Alto Research Center and Stanford University
+affiliation error? France Research Centeri Olivier Raiman, IBM Scientific Center
+affiliation error? Carnegie Mellon University and University of Maryland
+affiliation error? Los Alamos National Laboratory and Stanford University
+affiliation error? NTT Communications and Information Processing Laboratories
+affiliation error? General Electric Research and Development Center
+affiliation error? Carnegie Mellon University and Carnegie Group Inc.
+affiliation error? Carnegie Mellon University and Western Psychiatric Institute and Clinic
+affiliation error? Air Force Human Resources Laboratory, Brooks Air Force Base
+affiliation error? University of Massachusetts and Pat Cunningham, Hartford Graduate Center
+affiliation error? Columbia University and University of California, Los Angeles and Richard E. Korf, University of California, Los Angeles
+affiliation error? California State University and University of California, Los Angeles and Rina Dechter, Hughes Research Laboratories and University of California, Los Angeles
+affiliation error? Siemens Research and Technology Laboratories and Ruey-Juin Chang, University of Texas at Austin
+affiliation error? State University of New York at Albany and Erik Rosenthal, Wellesley College
+affiliation error? Microelectronics and Computer Technology Corporation
+affiliation error? University of Toronto and Johan de Kleer, Xerox PARC
+affiliation error? SRI International and Stanford University and David S. Fogelsong, Stanford University
+affiliation error? Judea Pearl, University of California, Los Angeles
+affiliation error? SRI International and Hector J. Levesque, University of Toronto
+affiliation error? Stanford Artificial Intelligence Laboratory and Kestrel Institute
+affiliation error? Virginia Polytechnic Institute and State University
+affiliation error? Carnegie Mellon University and Daniel R. Cooley, University of Massachusetts
+affiliation error? University of California, Berkeley and Benjamin N. Grosof, Stanford University
+affiliation error? Brandeis University and Sabine Bergler, University of Massachusetts
+affiliation error? MMicroelectronics and Computer Technology Corporation
+affiliation error? Artificial Intelligence Center, FMC Corporation
+affiliation error? University of Minnesotak and William F. Kaemmerer, Honeywell Inc.
+affiliation error? lET-Intelligent Electronics and Tel Aviv University
+affiliation error? Stanford University and Daniel R. Rehak, Expert Technologies, Inc.
+affiliation error? IASI CNR, and Andrzej Skowron, Warsaw University and University of North Carolina
+affiliation error? Xerox Palo Alto Research Center, and Brian Williams, MIT AI Laboratory
+affiliation error? Stanford University, and Richard Korf, University of California, Los Angeles
+affiliation error? Hughes Aircraft AI Center and University of California, Los Angeles
+affiliation error? New Mexico State University, and J. G. Stell, Manchester University
+affiliation error? Judea Pearl, University of California, Los Angeles
+affiliation error? BBN Laboratories, and Henry Kautz, University of Rochester
+affiliation missing? Allen Ginsberg AT&T Bell Laboratories
+affiliation error? Stanford University, and John E. Laird, Xerox Palo Alto Research Center
+affiliation error? IBM Los Angeles Scientific Center, and J. McDowell, University of Southern California
+affiliation error? University of Southern California / Information Sciences Institute, and Bernhard Nebel, Technische Universitat Berlin
+affiliation error? University of Pennsylvania and SRI International
+affiliation error? SRI International and Center for the Study of Language and Information, Stanford University
+affiliation error? Schlumberger Palo Alto Research, and Reid Simmons, MIT AI Laboratory
+affiliation error? Cincom Systems, Inc. , and K. G. Kempf, FMC Corporation
+affiliation error? Xerox Palo Alto Research Center, and Brian C. Williams, MIT AI Laboratory
+affiliation error? Rutgers University, and William Swartout, University of Southern California / Information Sciences Institute
+affiliation error? MIT AI Laboratory, and Robert S. Kirk, Gould/AMI Semiconductors, Inc.
+affiliation error? Nada Lavrac, University of Illinois at Urbana-Champaign
+affiliation error? University of California at Berkeley and Penn State University
+affiliation error? Stanford University and Kestrel Institute
+affiliation error? University of British Columbia, Canada, and Rutgers University
+affiliation error? IRISA--INRIA Rennes, Campus de Beaulieu, France
+affiliation error? Stanford University and Xerox Palo Alto Research Center
+affiliation error? Flinders University of South Australia, Australia
+affiliation error? SDC, A Burroughs Company, and University of Pennsylvania
+affiliation error? Judea Pearl, University of California at Los Angeles
+affiliation error? Fairchild Instrument and Camera Corporation
+affiliation error? Judea Pearl, University of California, Los Angeles
+affiliation error? Tufts University School of Medicine and New England Medical Center
+affiliation error? Virginia Polytechnic Institute and State University
+affiliation error? Advanced Information and Decision Systems
+affiliation missing? P. A. SubrahmanyamUSC / Information Sciences Institute
+affiliation error? Judea Pearl, University of California, Los Angeles
+affiliation error? Jet Propulsion Laboartory, California Institute of Technology
